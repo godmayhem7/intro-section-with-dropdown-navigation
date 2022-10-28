@@ -2,7 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: hsl(0, 15%, 92%);
-    font-family: Epilougue;
+    font-family: Epilogue;
 }
 
 header{
